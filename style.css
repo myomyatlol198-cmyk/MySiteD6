@@ -17,3 +17,14 @@ main {
     margin: 2rem auto;
     padding: 0 1rem;
 }
+nav a:hover {
+    text-decoration: underline;
+}
+h1 {
+    color: #222;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    color: #666;
+}
