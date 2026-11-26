@@ -1,5 +1,5 @@
 # My Site
-
+"Edited on GitHub"
 A three-page static site built while learning Git.
 
 ## Pages
